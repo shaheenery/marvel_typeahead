@@ -1,0 +1,24 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+
+.hero {
+  margin: 5px 0;
+
+  img {
+    height: 100px;
+    width: 100px;
+    float: left;
+    clear: left;
+  }
+
+  .name {
+    font-size: 1.5em;
+    float: left;
+  }
+
+  .desc {
+    float: left;
+    clear: left;
+  }
+
+}
